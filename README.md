@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from Argentina</h3>
 
 
-- 🌱 I’m currently learning **web3**
+- 🌱 I’m currently learning **React** and **web3** 
 
 - 📫 How to reach me **rafaelalejandrocabrera@gmail.com**
 
