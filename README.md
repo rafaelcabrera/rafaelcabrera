@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from Argentina</h3>
 
 
-- 🌱 I’m currently working with **Qlik Sense** , **Next.js** and **Go** 
+- 🌱 I’m currently working with **Fullstack development with Typescript**
 
 - 📫 How to reach me **rafaelalejandrocabrera@gmail.com**
 
